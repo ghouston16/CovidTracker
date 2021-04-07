@@ -14,6 +14,8 @@ Mail function/script allows user to search for and email contact/s
 Dependencies: Linux operating
 
 To run this application download the project and extract all files, then at command line change permissions to make files executable
-use chmod 755 (or similar) before running script.
+use chmod 755 (or similar).
+
+Run menu.sh script to start the application.
 
 
